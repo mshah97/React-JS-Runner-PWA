@@ -1,0 +1,31 @@
+{
+
+  "background_color": "green",
+
+  "description": "Dark Portfolio Ex",
+
+  "display": "fullscreen",
+
+  "icons": [
+
+    {
+
+      "src": "w3images/underwater512.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png"
+
+    }
+
+  ],
+
+  "name": "DarkPortfolio",
+
+  "short_name": "MyDark",
+
+  "start_url": "/DarkPortfolio/index.html"
+
+}
+
+
